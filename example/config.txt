@@ -1,0 +1,2 @@
+Prefix plugins/MetaboliteMap/example
+Plugin MetaboliteMap inputfile parameters.txt outputfile corr_inflammation_renamed.csv
